@@ -11,7 +11,7 @@ A vocabulary learning application tailored for **German** learners. Based on the
 ## ✨ Features
 * **Top 100 Frequent Words:** Starts with a curated list of essential German words (`german_words.csv`).
 * **Progress Tracking:** Automatically removes known words from the deck so you focus on what you don't know.
-* **Audio Pronunciation:** (Eğer eklediysen) Uses Text-to-Speech to read the German words aloud for better pronunciation practice.
+* **Audio Pronunciation:** Uses Text-to-Speech to read the German words aloud for better pronunciation practice.
 * **Interactive GUI:** Flip cards to see the English translation after a delay.
 
 ## 🚀 Installation
