@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.idea/
+venv/
+.DS_Store
+temp_voice.mp3
+*.mp3             # Eğer sesler dinamik üretiliyorsa tüm mp3'leri engelle
+!assets/sounds/*.mp3  # Sadece assets klasöründeki sabit seslere izin ver
+data/words_to_learn_german.csv
