@@ -18,4 +18,4 @@ A vocabulary learning application tailored for **German** learners. Based on the
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/KULLANICIADIN/German-Flash-Card-App.git](https://github.com/KULLANICIADIN/German-Flash-Card-App.git)
+   git clone [https://github.com/kutyfuty/German-Flash-Card-App.git](https://github.com/kutyfuty/German-Flash-Card-App.git)
